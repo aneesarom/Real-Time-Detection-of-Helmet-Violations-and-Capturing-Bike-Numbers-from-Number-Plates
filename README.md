@@ -33,13 +33,15 @@ The number plate recognition module uses Optical Character Recognition (OCR) tec
 
 ## Archietecture Used
 - YOLO
-- PaddleOcr 
+- PaddleOcr
+
+# If you find this project useful, kindly give it a star! ⭐️
+
+## For More Information
+- Contact me on Linkedin (Check Bio for the link) if Dataset is required.
 
 ## Demo of Current Status
 
 - A demo video has been saved in the Output Folder.
 
 ![Alt Text](bike.gif)
-
-## For More Information
-- Contact me on Linkedin(Check Bio for the link) if Dataset is required.
