@@ -1,0 +1,6 @@
+train: /Users/aneesaro/PycharmProjects/Ineuron projects/yolo_custom_model_helmet_detection/train/images
+val: /Users/aneesaro/PycharmProjects/Ineuron projects/yolo_custom_model_helmet_detection/val/images
+
+nc: 4
+
+names: ["with helmet", "without helmet", "rider", "number plate"]
