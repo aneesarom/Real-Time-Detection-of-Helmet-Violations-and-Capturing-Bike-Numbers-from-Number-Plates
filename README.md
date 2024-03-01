@@ -35,7 +35,7 @@ The number plate recognition module uses Optical Character Recognition (OCR) tec
 - YOLO
 - PaddleOcr
 
-# If you find this project useful, kindly give it a star! ⭐️
+### If you find this project useful, kindly give it a star! ⭐️
 
 ## For More Information
 - Contact me on Linkedin (Check Bio for the link) if Dataset is required.
