@@ -34,8 +34,4 @@ The number plate recognition module uses Optical Character Recognition (OCR) tec
 
 ![Alt Text](bike.gif)
 
-- It detects the number real-time and captures the information from the number plate.
-
-![Alt Text](bike2.gif)
-
 **Stay safe on the road!**
