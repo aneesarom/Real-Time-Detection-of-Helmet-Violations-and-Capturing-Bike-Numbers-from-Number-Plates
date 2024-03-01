@@ -32,8 +32,8 @@ The number plate recognition module uses Optical Character Recognition (OCR) tec
 -Acquired a comprehensive dataset from online sources containing 120 images with complete rider information, including the rider, helmet presence, and visible number plate and annotated it.
 
 ## Archietecture Used
--YOLO
--PaddleOcr 
+- YOLO
+- PaddleOcr 
 
 ## Demo of Current Status
 
