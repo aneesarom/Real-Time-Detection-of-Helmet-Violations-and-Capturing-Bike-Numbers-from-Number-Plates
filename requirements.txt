@@ -17,3 +17,4 @@ transformers==4.38.1
 easyocr==1.7.0
 pandas==1.5.3
 paddleocr==2.7.0.3
+paddlepaddle
