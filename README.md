@@ -39,7 +39,10 @@ The number plate recognition module uses Optical Character Recognition (OCR) tec
 
 ### If you find this project useful, kindly give it a star! ⭐️
 
-## For More Information
+## Usage
+- Run the training.py and once it is completed run main.py (update best.pt location)
+
+#### For More Information
 - Contact me on Linkedin (Check Bio for the link) if Dataset is required.
 
 ## Demo of Current Status
