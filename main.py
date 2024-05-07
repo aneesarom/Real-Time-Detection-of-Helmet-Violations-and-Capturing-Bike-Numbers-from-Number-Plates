@@ -8,11 +8,11 @@ from transformers import VisionEncoderDecoderModel
 from transformers import TrOCRProcessor
 from paddleocr import PaddleOCR
 
-cap = cv2.VideoCapture("videos/1/22.mp4")  # For videos
+cap = cv2.VideoCapture("videos/22.mp4")  # For videos
 
-model = YOLO("best.pt")
+model = YOLO("best.pt") # after training update the location of best.pt
 
-device = torch.device("mps") # change to cuda for windows gpu
+device = torch.device("mps") # change to cuda for windows gpu or keep it as cpu
 
 classNames = ["with helmet", "without helmet", "rider", "number plate"]
 num = 0
